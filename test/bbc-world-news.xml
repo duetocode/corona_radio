@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <!--By accessing this feed you are warranting that you are using these feeds in accordance with the BBC's Terms of Use http://www.bbc.co.uk/usingthebbc/terms-of-use/. If you are using these feeds for business or commercial purposes you warrant that you have obtained the necessary licence from the BBC and that BBC services and content are made available strictly in line with the BBC's Distribution Policy-->
+  <channel>
+    <title>Global News Podcast</title>
+    <link>http://www.bbc.co.uk/programmes/p02nq0gn</link>
+    <description>The dayâ€™s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends</description>
+    <itunes:summary>The dayâ€™s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends</itunes:summary>
+    <itunes:author>BBC World Service</itunes:author>
+    <itunes:owner>
+      <itunes:name>BBC</itunes:name>
+      <itunes:email>RadioMusic.Support@bbc.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:new-feed-url>https://podcasts.files.bbci.co.uk/p02nq0gn.rss</itunes:new-feed-url>
+    <language>en</language>
+    <ppg:seriesDetails frequency="daily" daysLive="30"/>
+    <ppg:systemRef systemId="pid.brand" key="p02nq0gn"/>
+    <ppg:systemRef systemId="pid.genre" key="C00079"/>
+    <ppg:network id="worldserviceradio" name="BBC World Service"/>
+    <image>
+      <url>http://ichef.bbci.co.uk/images/ic/3000x3000/p05z434b.jpg</url>
+      <title>Global News Podcast</title>
+      <link>http://www.bbc.co.uk/programmes/p02nq0gn</link>
+    </image>
+    <itunes:image href="http://ichef.bbci.co.uk/images/ic/3000x3000/p05z434b.jpg"/>
+    <copyright>(C) BBC 2020</copyright>
+    <pubDate>Sat, 07 Mar 2020 00:07:00 +0000</pubDate>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <media:rating scheme="urn:simple">nonadult</media:rating>
+    <atom:link href="http://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Coronavirus: Global number of cases reaches 100,000</title>
+      <description>The number of people that have been infected with the coronavirus since it first emerged in China has now surpassed the hundred-thousand mark. Also, the French publisher Hachette has decided not to release the memoirs of the Oscar-winning film-maker, Woody Allen, after a protest by employees, and NASA says that lettuce grown in space is just as nutritious as when it's grown on earth.</description>
+      <itunes:subtitle>The head of the World Health Organisation called the virus's spread "deeply concerning"</itunes:subtitle>
+      <itunes:summary>The number of people that have been infected with the coronavirus since it first emerged in China has now surpassed the hundred-thousand mark. Also, the French publisher Hachette has decided not to release the memoirs of the Oscar-winning film-maker, Woody Allen, after a protest by employees, and NASA says that lettuce grown in space is just as nutritious as when it's grown on earth.</itunes:summary>
+      <pubDate>Sat, 07 Mar 2020 00:07:00 +0000</pubDate>
+      <itunes:duration>1523</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085y0ph.mp3" length="12184000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085y0ph.mp3" length="12184000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085y0ph.mp3" length="12184000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085y15r</guid>
+      <link>http://www.bbc.co.uk/programmes/p085y15r</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085y0ph.mp3" fileSize="12184000" type="audio/mpeg" medium="audio" expression="full" duration="1523"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085y15r</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Iran suspends Friday prayers in major cities</title>
+      <description>Iranian authorities take measures to try and halt spread of virus.  This comes as people complain of shortages of food and essential medical equipment.  Also,
+chaos in Kabul as gunmen kill dozens at ceremony, and how plastic is affecting all marine species - including those we've never encountered before.</description>
+      <itunes:subtitle>Iranian authorities take measures to try and halt spread of virus</itunes:subtitle>
+      <itunes:summary>Iranian authorities take measures to try and halt spread of virus.  This comes as people complain of shortages of food and essential medical equipment.  Also,
+chaos in Kabul as gunmen kill dozens at ceremony, and how plastic is affecting all marine species - including those we've never encountered before.</itunes:summary>
+      <pubDate>Fri, 06 Mar 2020 16:36:00 +0000</pubDate>
+      <itunes:duration>1815</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085wqbq.mp3" length="14520000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085wqbq.mp3" length="14520000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085wqbq.mp3" length="14520000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085wrct</guid>
+      <link>http://www.bbc.co.uk/programmes/p085wrct</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085wqbq.mp3" fileSize="14520000" type="audio/mpeg" medium="audio" expression="full" duration="1815"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085wrct</ppg:canonical>
+    </item>
+    <item>
+      <title>Russia and Turkey agree a ceasefire in Idlib</title>
+      <description>Russian President Vladimir Putin and his Turkish counterpart Recep Tayyip Erdogan also agreed to establish a security corridor and joint patrols. Also, Elizabeth Warren announces the end of her presidential campaign and a truck crashes into a sacred statue on Easter Island.</description>
+      <itunes:subtitle>Vladimir Putin and his Turkish counterpart also agreed to establish a security corridor</itunes:subtitle>
+      <itunes:summary>Russian President Vladimir Putin and his Turkish counterpart Recep Tayyip Erdogan also agreed to establish a security corridor and joint patrols. Also, Elizabeth Warren announces the end of her presidential campaign and a truck crashes into a sacred statue on Easter Island.</itunes:summary>
+      <pubDate>Thu, 05 Mar 2020 23:47:00 +0000</pubDate>
+      <itunes:duration>1783</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085t6bx.mp3" length="14264000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085t6bx.mp3" length="14264000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085t6bx.mp3" length="14264000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085t7bl</guid>
+      <link>http://www.bbc.co.uk/programmes/p085t7bl</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085t6bx.mp3" fileSize="14264000" type="audio/mpeg" medium="audio" expression="full" duration="1783"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085t7bl</ppg:canonical>
+    </item>
+    <item>
+      <title>Afghanistan: Top international court backs war crimes probe</title>
+      <description>International Criminal Court says investigation of alleged war crimes can go ahead.  It's expected the actions of the Taliban, the Afghan government and US forces since May 2003 will be scrutinised.  Also, Putin and Erdogan hold talks on Syrian conflict, and why is Nigeria failing to provide adequate housing for millions of its people ?</description>
+      <itunes:subtitle>International Criminal Court says investigation of alleged war crimes can go ahead</itunes:subtitle>
+      <itunes:summary>International Criminal Court says investigation of alleged war crimes can go ahead.  It's expected the actions of the Taliban, the Afghan government and US forces since May 2003 will be scrutinised.  Also, Putin and Erdogan hold talks on Syrian conflict, and why is Nigeria failing to provide adequate housing for millions of its people ?</itunes:summary>
+      <pubDate>Thu, 05 Mar 2020 15:43:00 +0000</pubDate>
+      <itunes:duration>1828</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085rxts.mp3" length="14624000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085rxts.mp3" length="14624000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085rxts.mp3" length="14624000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085rycg</guid>
+      <link>http://www.bbc.co.uk/programmes/p085rycg</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085rxts.mp3" fileSize="14624000" type="audio/mpeg" medium="audio" expression="full" duration="1828"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085rycg</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Italy to close all schools as deaths rise</title>
+      <description>A total of 107 people have now been killed by the coronavirus in Italy, which has the most serious outbreak in Europe. Also: The billionaire businessman Michael Bloomberg pulls out of the US presidential race, and the 80s rock favourites returning to the scene.</description>
+      <itunes:subtitle>Italy has confirmed that it will shut all schools until mid-March as it battles outbreak</itunes:subtitle>
+      <itunes:summary>A total of 107 people have now been killed by the coronavirus in Italy, which has the most serious outbreak in Europe. Also: The billionaire businessman Michael Bloomberg pulls out of the US presidential race, and the 80s rock favourites returning to the scene.</itunes:summary>
+      <pubDate>Thu, 05 Mar 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1627</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085pb4n.mp3" length="13016000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085pb4n.mp3" length="13016000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085pb4n.mp3" length="13016000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085pbc4</guid>
+      <link>http://www.bbc.co.uk/programmes/p085pbc4</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085pb4n.mp3" fileSize="13016000" type="audio/mpeg" medium="audio" expression="full" duration="1627"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085pbc4</ppg:canonical>
+    </item>
+    <item>
+      <title>Biden wins big on Super Tuesday</title>
+      <description>The former vice president seals his comeback - just weeks after looking like a lost cause. He won nine of the 14 states that voted to pick a Democratic White House candidate. Also: The World Bank announces a multibillion dollar package to help the world's poorest countries combat the new coronavirus outbreak, and the Anglo-Saxon epic, Beowulf, rewrites its own history -- as it's released for the first time as an audiobook.</description>
+      <itunes:subtitle>The former vice president seals his comeback - just weeks after looking like a lost cause</itunes:subtitle>
+      <itunes:summary>The former vice president seals his comeback - just weeks after looking like a lost cause. He won nine of the 14 states that voted to pick a Democratic White House candidate. Also: The World Bank announces a multibillion dollar package to help the world's poorest countries combat the new coronavirus outbreak, and the Anglo-Saxon epic, Beowulf, rewrites its own history -- as it's released for the first time as an audiobook.</itunes:summary>
+      <pubDate>Wed, 04 Mar 2020 15:40:00 +0000</pubDate>
+      <itunes:duration>1734</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085mv35.mp3" length="13872000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085mv35.mp3" length="13872000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085mv35.mp3" length="13872000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085mwmv</guid>
+      <link>http://www.bbc.co.uk/programmes/p085mwmv</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085mv35.mp3" fileSize="13872000" type="audio/mpeg" medium="audio" expression="full" duration="1734"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085mwmv</ppg:canonical>
+    </item>
+    <item>
+      <title>Interest Rates cut to protect world economies from Coronavirus</title>
+      <description>An emergency interest rate cut in the US because of the economic risks posed by the new coronavirus ... Coronavirus leads to tens of thousands of prisoners being temporarily freed in Iran; How to stop criminals gaining remote access to baby monitors</description>
+      <itunes:subtitle>Emergency interest rate cut in US due to economic risks of coronavirus ...</itunes:subtitle>
+      <itunes:summary>An emergency interest rate cut in the US because of the economic risks posed by the new coronavirus ... Coronavirus leads to tens of thousands of prisoners being temporarily freed in Iran; How to stop criminals gaining remote access to baby monitors</itunes:summary>
+      <pubDate>Wed, 04 Mar 2020 00:02:00 +0000</pubDate>
+      <itunes:duration>1428</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085kn6m.mp3" length="11424000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085kn6m.mp3" length="11424000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085kn6m.mp3" length="11424000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085kngj</guid>
+      <link>http://www.bbc.co.uk/programmes/p085kngj</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085kn6m.mp3" fileSize="11424000" type="audio/mpeg" medium="audio" expression="full" duration="1428"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085kngj</ppg:canonical>
+    </item>
+    <item>
+      <title>US Election 2020: Joe Biden boosted on Super Tuesday</title>
+      <description>US Democratic presidential candidate Joe Biden has picked up three endorsements from former rivals on the eve of the most important day in the 2020 White House race so far. On Super Tuesday, voters in 14 states will pick their preferred Democratic candidate for November's election; Iran coronavirus cases continue to rise; Why today's children have nightmares about climate change.</description>
+      <itunes:subtitle>US Democratic presidential candidate Joe Biden picks up endorsements from former rivals</itunes:subtitle>
+      <itunes:summary>US Democratic presidential candidate Joe Biden has picked up three endorsements from former rivals on the eve of the most important day in the 2020 White House race so far. On Super Tuesday, voters in 14 states will pick their preferred Democratic candidate for November's election; Iran coronavirus cases continue to rise; Why today's children have nightmares about climate change.</itunes:summary>
+      <pubDate>Tue, 03 Mar 2020 15:52:00 +0000</pubDate>
+      <itunes:duration>1755</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085jgzs.mp3" length="14040000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085jgzs.mp3" length="14040000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085jgzs.mp3" length="14040000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085jjc0</guid>
+      <link>http://www.bbc.co.uk/programmes/p085jjc0</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085jgzs.mp3" fileSize="14040000" type="audio/mpeg" medium="audio" expression="full" duration="1755"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085jjc0</ppg:canonical>
+    </item>
+    <item>
+      <title>Increased Coronavirus death toll in the United States</title>
+      <description>The number of confirmed deaths in the western US state of Washington has trebled to six; Exit polls suggest yet another inconclusive Israeli general election - though indicted prime minister Benjamin Netanyahu may remain in office; And scientists sniff out the reason why dogs have wet noses</description>
+      <itunes:subtitle>The number of confirmed deaths in the western US state of Washington has trebled to six.</itunes:subtitle>
+      <itunes:summary>The number of confirmed deaths in the western US state of Washington has trebled to six; Exit polls suggest yet another inconclusive Israeli general election - though indicted prime minister Benjamin Netanyahu may remain in office; And scientists sniff out the reason why dogs have wet noses</itunes:summary>
+      <pubDate>Tue, 03 Mar 2020 00:03:00 +0000</pubDate>
+      <itunes:duration>1462</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085gdf7.mp3" length="11696000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085gdf7.mp3" length="11696000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085gdf7.mp3" length="11696000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085gdpb</guid>
+      <link>http://www.bbc.co.uk/programmes/p085gdpb</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085gdf7.mp3" fileSize="11696000" type="audio/mpeg" medium="audio" expression="full" duration="1462"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085gdpb</ppg:canonical>
+    </item>
+    <item>
+      <title>Official deaths in Iran from Covid19 rise to 66 - the highest outside China</title>
+      <description>Other reports suggest the real figures on the virus in Iran are much higher. The Vatican opens archives of Holocaust-era Pope Pius XII. Pete Buttigieg drops out of the Democratic race for the White House.</description>
+      <itunes:subtitle>Adviser to Iran's Supreme Leader dies of Covid19 as a sharp increase in cases confirmed</itunes:subtitle>
+      <itunes:summary>Other reports suggest the real figures on the virus in Iran are much higher. The Vatican opens archives of Holocaust-era Pope Pius XII. Pete Buttigieg drops out of the Democratic race for the White House.</itunes:summary>
+      <pubDate>Mon, 02 Mar 2020 15:38:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085f15z.mp3" length="12400000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085f15z.mp3" length="12400000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085f15z.mp3" length="12400000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085f33d</guid>
+      <link>http://www.bbc.co.uk/programmes/p085f33d</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085f15z.mp3" fileSize="12400000" type="audio/mpeg" medium="audio" expression="full" duration="1550"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085f33d</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus Special</title>
+      <description>We put your questions about Covid-19 to experts in the fields of health and science, business, politics and communications.</description>
+      <itunes:subtitle>A panel of BBC experts answers your questions about Covid-19</itunes:subtitle>
+      <itunes:summary>We put your questions about Covid-19 to experts in the fields of health and science, business, politics and communications.</itunes:summary>
+      <pubDate>Mon, 02 Mar 2020 00:05:00 +0000</pubDate>
+      <itunes:duration>2863</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0854b75.mp3" length="22904000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0854b75.mp3" length="22904000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0854b75.mp3" length="22904000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0854gfl</guid>
+      <link>http://www.bbc.co.uk/programmes/p0854gfl</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0854b75.mp3" fileSize="22904000" type="audio/mpeg" medium="audio" expression="full" duration="2863"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0854gfl</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: US state of Washington declares state of emergency</title>
+      <description>Up to fifteen hundred people could be infected with the virus. Over the weekend, a man in his fifties from the northwestern state became the first confirmed fatality from the virus in the US. Also, Turkey has shot down two Syrian fighter jets in Idlib. And, Germanyâ€™s harvest of ice wine fails for the first time due to the winter being too warm.</description>
+      <itunes:subtitle>Scientists say the virus may have been spreading in the state for the last six weeks</itunes:subtitle>
+      <itunes:summary>Up to fifteen hundred people could be infected with the virus. Over the weekend, a man in his fifties from the northwestern state became the first confirmed fatality from the virus in the US. Also, Turkey has shot down two Syrian fighter jets in Idlib. And, Germanyâ€™s harvest of ice wine fails for the first time due to the winter being too warm.</itunes:summary>
+      <pubDate>Sun, 01 Mar 2020 23:36:00 +0000</pubDate>
+      <itunes:duration>1819</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085bkv8.mp3" length="14552000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085bkv8.mp3" length="14552000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p085bkv8.mp3" length="14552000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p085bl06</guid>
+      <link>http://www.bbc.co.uk/programmes/p085bl06</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p085bkv8.mp3" fileSize="14552000" type="audio/mpeg" medium="audio" expression="full" duration="1819"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p085bl06</ppg:canonical>
+    </item>
+    <item>
+      <title>Trump hails deal with Taliban</title>
+      <description>He says the deal will end the Afghan conflict and 'bring our people back home'. Also: the first coronavirus death in the US, and the country where public transport is free for all.</description>
+      <itunes:subtitle>He says the deal will end the Afghan conflict and 'bring our people back home'</itunes:subtitle>
+      <itunes:summary>He says the deal will end the Afghan conflict and 'bring our people back home'. Also: the first coronavirus death in the US, and the country where public transport is free for all.</itunes:summary>
+      <pubDate>Sun, 01 Mar 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1931</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0858555.mp3" length="15448000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0858555.mp3" length="15448000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0858555.mp3" length="15448000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p08585yh</guid>
+      <link>http://www.bbc.co.uk/programmes/p08585yh</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0858555.mp3" fileSize="15448000" type="audio/mpeg" medium="audio" expression="full" duration="1931"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p08585yh</ppg:canonical>
+    </item>
+    <item>
+      <title>WHO says global risk of the coronavirus is 'very high'</title>
+      <description>The BBC understands more than 200 people have died in Iran, as the outbreak worsens. Also: The UN describes the rising conflict in Idlib as one of the most alarming moments of the Syrian War, and the US and Taliban are set to sign a peace deal.</description>
+      <itunes:subtitle>The BBC understands more than 200 people have died in Iran, as the outbreak worsens</itunes:subtitle>
+      <itunes:summary>The BBC understands more than 200 people have died in Iran, as the outbreak worsens. Also: The UN describes the rising conflict in Idlib as one of the most alarming moments of the Syrian War, and the US and Taliban are set to sign a peace deal.</itunes:summary>
+      <pubDate>Fri, 28 Feb 2020 23:34:00 +0000</pubDate>
+      <itunes:duration>1449</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08559l3.mp3" length="11592000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08559l3.mp3" length="11592000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p08559l3.mp3" length="11592000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0855b4d</guid>
+      <link>http://www.bbc.co.uk/programmes/p0855b4d</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08559l3.mp3" fileSize="11592000" type="audio/mpeg" medium="audio" expression="full" duration="1449"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0855b4d</ppg:canonical>
+    </item>
+    <item>
+      <title>Syria: Nato appeals for halt to Idlib offensive after 33 Turkish soldiers killed</title>
+      <description>Many Turkish soldiers died in Syrian government attack on opposition-held enclave.  Russia, Syria's key ally, says Turkish troops were attacked by Syrian forces while operating alongside jihadist fighters.  Also,  Coronavirus has reached Nigeria - Africa's most populous country, and astronomers have discovered 'biggest explosion since the Big Bang.'</description>
+      <itunes:subtitle>Many Turkish soldiers died in Syrian government attack on opposition-held enclave</itunes:subtitle>
+      <itunes:summary>Many Turkish soldiers died in Syrian government attack on opposition-held enclave.  Russia, Syria's key ally, says Turkish troops were attacked by Syrian forces while operating alongside jihadist fighters.  Also,  Coronavirus has reached Nigeria - Africa's most populous country, and astronomers have discovered 'biggest explosion since the Big Bang.'</itunes:summary>
+      <pubDate>Fri, 28 Feb 2020 16:36:00 +0000</pubDate>
+      <itunes:duration>1769</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08540qk.mp3" length="14152000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08540qk.mp3" length="14152000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p08540qk.mp3" length="14152000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p08541vn</guid>
+      <link>http://www.bbc.co.uk/programmes/p08541vn</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08540qk.mp3" fileSize="14152000" type="audio/mpeg" medium="audio" expression="full" duration="1769"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p08541vn</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Outbreak at 'decisive point'</title>
+      <description>The WHO says new cases outside China are now 'the greatest concern', as more than forty countries struggle to contain the infection. Also: an airstrike in Idlib province in northern Syria kills Turkish soldiers, and why you'll never see a baddie in the movies with an iPhone.</description>
+      <itunes:subtitle>The WHO says new cases outside China are now 'the greatest concern'</itunes:subtitle>
+      <itunes:summary>The WHO says new cases outside China are now 'the greatest concern', as more than forty countries struggle to contain the infection. Also: an airstrike in Idlib province in northern Syria kills Turkish soldiers, and why you'll never see a baddie in the movies with an iPhone.</itunes:summary>
+      <pubDate>Thu, 27 Feb 2020 23:23:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0850ybk.mp3" length="12440000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0850ybk.mp3" length="12440000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0850ybk.mp3" length="12440000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0850zdr</guid>
+      <link>http://www.bbc.co.uk/programmes/p0850zdr</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0850ybk.mp3" fileSize="12440000" type="audio/mpeg" medium="audio" expression="full" duration="1555"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0850zdr</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Japan to close all schools to halt spread of disease</title>
+      <description>Japan's Prime Minister says government will ask all schools to close from Monday.  And governments worldwide take tougher measures to try and halt the outbreak.  Also, the realities of life - and death - inside Syria's last rebel-held enclave, and why a new perfume's been launched in Russia to commemorate a dark episode in history.</description>
+      <itunes:subtitle>Japan's Prime Minister says government will ask all schools to close from Monday</itunes:subtitle>
+      <itunes:summary>Japan's Prime Minister says government will ask all schools to close from Monday.  And governments worldwide take tougher measures to try and halt the outbreak.  Also, the realities of life - and death - inside Syria's last rebel-held enclave, and why a new perfume's been launched in Russia to commemorate a dark episode in history.</itunes:summary>
+      <pubDate>Thu, 27 Feb 2020 16:02:00 +0000</pubDate>
+      <itunes:duration>1726</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084zpmk.mp3" length="13808000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084zpmk.mp3" length="13808000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084zpmk.mp3" length="13808000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084zq9c</guid>
+      <link>http://www.bbc.co.uk/programmes/p084zq9c</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084zpmk.mp3" fileSize="13808000" type="audio/mpeg" medium="audio" expression="full" duration="1726"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084zq9c</ppg:canonical>
+    </item>
+    <item>
+      <title>Brazil confirms first coronavirus case in Latin America</title>
+      <description>World Health Organization says Covid-19 is not yet a pandemic. Also: Genetic study shows the red panda is actually two separate species, and Maria Sharapova retires from tennis.</description>
+      <itunes:subtitle>World Health Organization says Covid-19 is not yet a pandemic</itunes:subtitle>
+      <itunes:summary>World Health Organization says Covid-19 is not yet a pandemic. Also: Genetic study shows the red panda is actually two separate species, and Maria Sharapova retires from tennis.</itunes:summary>
+      <pubDate>Thu, 27 Feb 2020 00:05:00 +0000</pubDate>
+      <itunes:duration>1649</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084wkd0.mp3" length="13192000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084wkd0.mp3" length="13192000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084wkd0.mp3" length="13192000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084wl1x</guid>
+      <link>http://www.bbc.co.uk/programmes/p084wl1x</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084wkd0.mp3" fileSize="13192000" type="audio/mpeg" medium="audio" expression="full" duration="1649"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084wl1x</ppg:canonical>
+    </item>
+    <item>
+      <title>Covid19 now spreading faster outside China than inside</title>
+      <description>In Europe the virus has spread to new areas, with Greece reporting its first case. Delhi remains tense after Hindu-Muslim clashes leave 23 dead. Democratic  rivals intensify attacks on Bernie Sanders at the South Carolina debate.</description>
+      <itunes:subtitle>Health experts are concerned by the sharp rise in cases in South Korea, Iran and Italy</itunes:subtitle>
+      <itunes:summary>In Europe the virus has spread to new areas, with Greece reporting its first case. Delhi remains tense after Hindu-Muslim clashes leave 23 dead. Democratic  rivals intensify attacks on Bernie Sanders at the South Carolina debate.</itunes:summary>
+      <pubDate>Wed, 26 Feb 2020 15:42:00 +0000</pubDate>
+      <itunes:duration>1749</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084v6br.mp3" length="13992000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084v6br.mp3" length="13992000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084v6br.mp3" length="13992000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084v77c</guid>
+      <link>http://www.bbc.co.uk/programmes/p084v77c</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084v6br.mp3" fileSize="13992000" type="audio/mpeg" medium="audio" expression="full" duration="1749"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084v77c</ppg:canonical>
+    </item>
+    <item>
+      <title>Fears as Coronavirus outbreak worsens</title>
+      <description>World Health Organization says sudden increase in cases outside China is "deeply concerning"; European Union sets negotiating goals for post-Brexit UK trade deal; Israeli government to build thousands of new homes in occupied West Bank.</description>
+      <itunes:subtitle>World Health Organization says increase in cases outside China is "deeply concerning".</itunes:subtitle>
+      <itunes:summary>World Health Organization says sudden increase in cases outside China is "deeply concerning"; European Union sets negotiating goals for post-Brexit UK trade deal; Israeli government to build thousands of new homes in occupied West Bank.</itunes:summary>
+      <pubDate>Wed, 26 Feb 2020 00:11:00 +0000</pubDate>
+      <itunes:duration>1643</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084rt4z.mp3" length="13144000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084rt4z.mp3" length="13144000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084rt4z.mp3" length="13144000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084rtcl</guid>
+      <link>http://www.bbc.co.uk/programmes/p084rtcl</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084rt4z.mp3" fileSize="13144000" type="audio/mpeg" medium="audio" expression="full" duration="1643"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084rtcl</ppg:canonical>
+    </item>
+    <item>
+      <title>Hosni Mubarak, Egyptian president ousted during Arab spring, dies at 91</title>
+      <description>The country was stable during his time in power, but many Egyptians saw him as a dictator who governed with an iron grip. Iran's deputy health minister tests positive as the coronavirus outbreak worsens. PlÃ¡cido Domingo apologises to women who accused him of sexual harassment.</description>
+      <itunes:subtitle>Mubarak ruled Egypt for 30 years until he was deposed following mass protests</itunes:subtitle>
+      <itunes:summary>The country was stable during his time in power, but many Egyptians saw him as a dictator who governed with an iron grip. Iran's deputy health minister tests positive as the coronavirus outbreak worsens. PlÃ¡cido Domingo apologises to women who accused him of sexual harassment.</itunes:summary>
+      <pubDate>Tue, 25 Feb 2020 15:10:00 +0000</pubDate>
+      <itunes:duration>1655</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084qj5c.mp3" length="13240000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084qj5c.mp3" length="13240000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084qj5c.mp3" length="13240000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084qkh6</guid>
+      <link>http://www.bbc.co.uk/programmes/p084qkh6</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084qj5c.mp3" fileSize="13240000" type="audio/mpeg" medium="audio" expression="full" duration="1655"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084qkh6</ppg:canonical>
+    </item>
+    <item>
+      <title>Harvey Weinstein convicted of rape and sexual assault</title>
+      <description>The film producer was found guilty of two of the five charges he faced. Also, the WHO urges countries to prepare for a possible coronavirus pandemic, and a man is arrested in Germany after a car drove into people at a carnival.</description>
+      <itunes:subtitle>The film producer was found guilty of two of the five charges he faced</itunes:subtitle>
+      <itunes:summary>The film producer was found guilty of two of the five charges he faced. Also, the WHO urges countries to prepare for a possible coronavirus pandemic, and a man is arrested in Germany after a car drove into people at a carnival.</itunes:summary>
+      <pubDate>Mon, 24 Feb 2020 23:38:00 +0000</pubDate>
+      <itunes:duration>1750</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084nbzx.mp3" length="14000000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084nbzx.mp3" length="14000000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084nbzx.mp3" length="14000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084nd3v</guid>
+      <link>http://www.bbc.co.uk/programmes/p084nd3v</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084nbzx.mp3" fileSize="14000000" type="audio/mpeg" medium="audio" expression="full" duration="1750"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084nd3v</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus spread raises fears of global pandemic</title>
+      <description>There are concerns about cases in countries with a weak health infrastructure like Iraq and Afghanistan. US President Donald Trump visits India. The world's oldest prime minister, Mahathir Mohamad, has submitted his shock resignation.</description>
+      <itunes:subtitle>More cases and deaths emerge around the world</itunes:subtitle>
+      <itunes:summary>There are concerns about cases in countries with a weak health infrastructure like Iraq and Afghanistan. US President Donald Trump visits India. The world's oldest prime minister, Mahathir Mohamad, has submitted his shock resignation.</itunes:summary>
+      <pubDate>Mon, 24 Feb 2020 15:27:00 +0000</pubDate>
+      <itunes:duration>1876</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084lsxv.mp3" length="15008000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084lsxv.mp3" length="15008000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084lsxv.mp3" length="15008000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084lvrp</guid>
+      <link>http://www.bbc.co.uk/programmes/p084lvrp</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084lsxv.mp3" fileSize="15008000" type="audio/mpeg" medium="audio" expression="full" duration="1876"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084lvrp</ppg:canonical>
+    </item>
+    <item>
+      <title>Venice carnival closes amid coronavirus outbreak</title>
+      <description>Italy quarantines whole towns, closes schools and cancels sports fixtures as infections increase. Also: protests in Budapest against anti-Roma campaign, and celebrating the theremin -- the Soviet-invented hands-free electronic instrument.</description>
+      <itunes:subtitle>Several towns in Lombardy region are under strict quarantine</itunes:subtitle>
+      <itunes:summary>Italy quarantines whole towns, closes schools and cancels sports fixtures as infections increase. Also: protests in Budapest against anti-Roma campaign, and celebrating the theremin -- the Soviet-invented hands-free electronic instrument.</itunes:summary>
+      <pubDate>Mon, 24 Feb 2020 00:02:00 +0000</pubDate>
+      <itunes:duration>1890</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084hlvv.mp3" length="15120000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084hlvv.mp3" length="15120000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084hlvv.mp3" length="15120000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084hmcf</guid>
+      <link>http://www.bbc.co.uk/programmes/p084hmcf</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084hlvv.mp3" fileSize="15120000" type="audio/mpeg" medium="audio" expression="full" duration="1890"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084hmcf</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus cases double in one day in South Korea</title>
+      <description>The South Korea PM Chung Sye-kyun described the situation as "grave". Also: South Sudan rivals strike power-sharing deal and remembering Ladysmith Black Mambazo's founder, Joseph Shabalala.</description>
+      <itunes:subtitle>Daegu and Cheongdo declared "special care zones"</itunes:subtitle>
+      <itunes:summary>The South Korea PM Chung Sye-kyun described the situation as "grave". Also: South Sudan rivals strike power-sharing deal and remembering Ladysmith Black Mambazo's founder, Joseph Shabalala.</itunes:summary>
+      <pubDate>Sun, 23 Feb 2020 00:04:00 +0000</pubDate>
+      <itunes:duration>1894</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084dg0w.mp3" length="15152000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084dg0w.mp3" length="15152000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p084dg0w.mp3" length="15152000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084dgnr</guid>
+      <link>http://www.bbc.co.uk/programmes/p084dgnr</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p084dg0w.mp3" fileSize="15152000" type="audio/mpeg" medium="audio" expression="full" duration="1894"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084dgnr</ppg:canonical>
+    </item>
+    <item>
+      <title>WHO says there's a 'narrowing window' to contain virus outbreak</title>
+      <description>The World Health Organization says the number of Covid-19 cases with no clear link to China is a concern. Also: US and Afghan Taliban start partial truce, and the buzz around brainy bees.</description>
+      <itunes:subtitle>There have been new deaths and infections in Iran</itunes:subtitle>
+      <itunes:summary>The World Health Organization says the number of Covid-19 cases with no clear link to China is a concern. Also: US and Afghan Taliban start partial truce, and the buzz around brainy bees.</itunes:summary>
+      <pubDate>Sat, 22 Feb 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1672</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0848wx7.mp3" length="13376000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0848wx7.mp3" length="13376000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0848wx7.mp3" length="13376000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0848xww</guid>
+      <link>http://www.bbc.co.uk/programmes/p0848xww</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0848wx7.mp3" fileSize="13376000" type="audio/mpeg" medium="audio" expression="full" duration="1672"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0848xww</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: South Korea 'emergency' measures as infections increase</title>
+      <description>The country's army is on lockdown after several soldiers tested positive. After Hanau attacks, Germany boosts security amid far-right threat. Lesotho's Prime Minister fails to appear in court to face charges of murdering his estranged wife.</description>
+      <itunes:subtitle>A second person dies in South Korea from virus as the Prime Minister declares emergency</itunes:subtitle>
+      <itunes:summary>The country's army is on lockdown after several soldiers tested positive. After Hanau attacks, Germany boosts security amid far-right threat. Lesotho's Prime Minister fails to appear in court to face charges of murdering his estranged wife.</itunes:summary>
+      <pubDate>Fri, 21 Feb 2020 15:14:00 +0000</pubDate>
+      <itunes:duration>1627</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0846zpz.mp3" length="13016000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0846zpz.mp3" length="13016000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0846zpz.mp3" length="13016000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084720x</guid>
+      <link>http://www.bbc.co.uk/programmes/p084720x</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0846zpz.mp3" fileSize="13016000" type="audio/mpeg" medium="audio" expression="full" duration="1627"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084720x</ppg:canonical>
+    </item>
+    <item>
+      <title>Trump Ally Roger Stone sentenced to prison.</title>
+      <description>President Trump's former adviser Roger Stone is sentenced to forty months in prison for lying to Congress; Angela Merkel leads condemnation of an attack by a far right extremist that left nine dead; A special bracelet designed to switch off any prying Alexa speaker</description>
+      <itunes:subtitle>President Trump's former adviser Roger Stone sentenced to forty months in prison .</itunes:subtitle>
+      <itunes:summary>President Trump's former adviser Roger Stone is sentenced to forty months in prison for lying to Congress; Angela Merkel leads condemnation of an attack by a far right extremist that left nine dead; A special bracelet designed to switch off any prying Alexa speaker</itunes:summary>
+      <pubDate>Fri, 21 Feb 2020 00:03:00 +0000</pubDate>
+      <itunes:duration>1862</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08445vy.mp3" length="14896000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08445vy.mp3" length="14896000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p08445vy.mp3" length="14896000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p084464d</guid>
+      <link>http://www.bbc.co.uk/programmes/p084464d</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08445vy.mp3" fileSize="14896000" type="audio/mpeg" medium="audio" expression="full" duration="1862"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p084464d</ppg:canonical>
+    </item>
+    <item>
+      <title>Germany: Suspected far-right extremist kills 9 people in gun-attack</title>
+      <description>Police investigate background of gunman who carried out mass-killing in western Germany.  Most of his victims had migrant backgrounds. 
+
+Also, South Korea becomes latest focus of global concern over coronavirus, and Swiss prosecutors bring corruption charges against two leading figures in world of football.</description>
+      <itunes:subtitle>Police investigate background of gunman who carried out mass-killing in western Germany</itunes:subtitle>
+      <itunes:summary>Police investigate background of gunman who carried out mass-killing in western Germany.  Most of his victims had migrant backgrounds. 
+
+Also, South Korea becomes latest focus of global concern over coronavirus, and Swiss prosecutors bring corruption charges against two leading figures in world of football.</itunes:summary>
+      <pubDate>Thu, 20 Feb 2020 16:17:00 +0000</pubDate>
+      <itunes:duration>1822</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0842jzs.mp3" length="14576000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0842jzs.mp3" length="14576000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0842jzs.mp3" length="14576000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0842m1c</guid>
+      <link>http://www.bbc.co.uk/programmes/p0842m1c</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0842jzs.mp3" fileSize="14576000" type="audio/mpeg" medium="audio" expression="full" duration="1822"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0842m1c</ppg:canonical>
+    </item>
+    <item>
+      <title>Optimistic signs over global Coronavirus crisis</title>
+      <description>Japan rejects criticism of its handling of the coronavirus cruise ship; More bad news for Boeing after debris is found in the fuel tanks of brand new 737 Max aircraft; Could ammonia prove the green alternative to diesel to transform the world's shipping industry?</description>
+      <itunes:subtitle>Japan rejects criticism of its handling of the coronavirus cruise ship</itunes:subtitle>
+      <itunes:summary>Japan rejects criticism of its handling of the coronavirus cruise ship; More bad news for Boeing after debris is found in the fuel tanks of brand new 737 Max aircraft; Could ammonia prove the green alternative to diesel to transform the world's shipping industry?</itunes:summary>
+      <pubDate>Thu, 20 Feb 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1772</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083zbxh.mp3" length="14176000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083zbxh.mp3" length="14176000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083zbxh.mp3" length="14176000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083zc35</guid>
+      <link>http://www.bbc.co.uk/programmes/p083zc35</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083zbxh.mp3" fileSize="14176000" type="audio/mpeg" medium="audio" expression="full" duration="1772"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083zc35</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: â€˜Quarantinedâ€™ cruise ship criticised by experts</title>
+      <description>Japan is facing mounting international criticism of its response to the outbreak on the ship, the largest outside of mainland China. Also: Controversy at the Brit awards in London as a rapper calls the Prime Minister a racist on live TV, and the new research which claims to explain why modern dating isnâ€™t working.</description>
+      <itunes:subtitle>More than 500 passengers and crew on the Diamond Princess have been infected</itunes:subtitle>
+      <itunes:summary>Japan is facing mounting international criticism of its response to the outbreak on the ship, the largest outside of mainland China. Also: Controversy at the Brit awards in London as a rapper calls the Prime Minister a racist on live TV, and the new research which claims to explain why modern dating isnâ€™t working.</itunes:summary>
+      <pubDate>Wed, 19 Feb 2020 15:08:00 +0000</pubDate>
+      <itunes:duration>1730</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083x6bd.mp3" length="13840000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083x6bd.mp3" length="13840000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083x6bd.mp3" length="13840000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083x7gq</guid>
+      <link>http://www.bbc.co.uk/programmes/p083x7gq</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083x6bd.mp3" fileSize="13840000" type="audio/mpeg" medium="audio" expression="full" duration="1730"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083x7gq</ppg:canonical>
+    </item>
+    <item>
+      <title>Bloomberg to join Democrat debate</title>
+      <description>Democratic presidential candidate Michael Bloomberg will take part in a nomination debate for the first time on Wednesday. Also: The judge in the Harvey Weinstein rape case has warned the lead defence lawyer not to talk to the press, and Russian President Vladimir Putin has dismissed one of his closest advisers.</description>
+      <itunes:subtitle>Michael Bloomberg to join Democratic debate amid poll surge</itunes:subtitle>
+      <itunes:summary>Democratic presidential candidate Michael Bloomberg will take part in a nomination debate for the first time on Wednesday. Also: The judge in the Harvey Weinstein rape case has warned the lead defence lawyer not to talk to the press, and Russian President Vladimir Putin has dismissed one of his closest advisers.</itunes:summary>
+      <pubDate>Wed, 19 Feb 2020 00:03:00 +0000</pubDate>
+      <itunes:duration>1590</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083v6sm.mp3" length="12720000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083v6sm.mp3" length="12720000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083v6sm.mp3" length="12720000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083v6zy</guid>
+      <link>http://www.bbc.co.uk/programmes/p083v6zy</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083v6sm.mp3" fileSize="12720000" type="audio/mpeg" medium="audio" expression="full" duration="1590"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083v6zy</ppg:canonical>
+    </item>
+    <item>
+      <title>Fresh Chinese data on Covid-19 fatality rates</title>
+      <description>Health officials in China say Coronavirus shows a fatality rate of two point three per cent; Europe's biggest bank, HSBC, says it will axe 35.000 jobs, after pre- tax profits fell by a third last year; We hear what it's like to get caught up in a swarm of locusts as South Sudan braces for their arrival...</description>
+      <itunes:subtitle>Health officials in China say Coronavirus shows a fatality rate of 2.3 per cent.</itunes:subtitle>
+      <itunes:summary>Health officials in China say Coronavirus shows a fatality rate of two point three per cent; Europe's biggest bank, HSBC, says it will axe 35.000 jobs, after pre- tax profits fell by a third last year; We hear what it's like to get caught up in a swarm of locusts as South Sudan braces for their arrival...</itunes:summary>
+      <pubDate>Tue, 18 Feb 2020 14:51:00 +0000</pubDate>
+      <itunes:duration>1723</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083stkq.mp3" length="13784000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083stkq.mp3" length="13784000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083stkq.mp3" length="13784000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083sttk</guid>
+      <link>http://www.bbc.co.uk/programmes/p083sttk</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083stkq.mp3" fileSize="13784000" type="audio/mpeg" medium="audio" expression="full" duration="1723"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083sttk</ppg:canonical>
+    </item>
+    <item>
+      <title>Uighurs â€˜detained for beards and veilsâ€™ â€“ leak</title>
+      <description>A document that appears to give the most powerful insight yet into how China determined the fate of hundreds of thousands of Muslims held in a network of internment camps has been seen by the BBC. Also: The United Nations says fighting in the Syrian province of Idlib has displaced 900,000 people since December, and a woman who dated more than 100 men and remained a virgin until she was 41 years old.</description>
+      <itunes:subtitle>China Uighurs: â€˜Detained for beards, veils and internet browsingâ€™</itunes:subtitle>
+      <itunes:summary>A document that appears to give the most powerful insight yet into how China determined the fate of hundreds of thousands of Muslims held in a network of internment camps has been seen by the BBC. Also: The United Nations says fighting in the Syrian province of Idlib has displaced 900,000 people since December, and a woman who dated more than 100 men and remained a virgin until she was 41 years old.</itunes:summary>
+      <pubDate>Tue, 18 Feb 2020 00:03:00 +0000</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083qx3x.mp3" length="13080000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083qx3x.mp3" length="13080000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083qx3x.mp3" length="13080000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083qxbf</guid>
+      <link>http://www.bbc.co.uk/programmes/p083qxbf</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083qx3x.mp3" fileSize="13080000" type="audio/mpeg" medium="audio" expression="full" duration="1635"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083qxbf</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus threatens to push Japan into recession</title>
+      <description>Analysts are concerned travel restrictions, which have led to a sharp drop in tourism from China, will cause Japan's economy to contract further. General Motors scraps the historic Holden car brand in Australia. A Spanish actor is being tried for insulting God.</description>
+      <itunes:subtitle>Japan's latest figures showed its economy shrank at its fastest rate since 2014</itunes:subtitle>
+      <itunes:summary>Analysts are concerned travel restrictions, which have led to a sharp drop in tourism from China, will cause Japan's economy to contract further. General Motors scraps the historic Holden car brand in Australia. A Spanish actor is being tried for insulting God.</itunes:summary>
+      <pubDate>Mon, 17 Feb 2020 15:05:00 +0000</pubDate>
+      <itunes:duration>1707</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083p8km.mp3" length="13656000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083p8km.mp3" length="13656000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083p8km.mp3" length="13656000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083pbyb</guid>
+      <link>http://www.bbc.co.uk/programmes/p083pbyb</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083p8km.mp3" fileSize="13656000" type="audio/mpeg" medium="audio" expression="full" duration="1707"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083pbyb</ppg:canonical>
+    </item>
+    <item>
+      <title>Americans from virus cruise ship leave Japan</title>
+      <description>Hundreds will be quarantined in the US, while 40 confirmed cases will be treated in Japan. Also: Elton John halts concert due to pneumonia, and turning human corpses into compost for green burials.</description>
+      <itunes:subtitle>Hundreds will be quarantined in the US, while 40 confirmed cases will be treated in Japan</itunes:subtitle>
+      <itunes:summary>Hundreds will be quarantined in the US, while 40 confirmed cases will be treated in Japan. Also: Elton John halts concert due to pneumonia, and turning human corpses into compost for green burials.</itunes:summary>
+      <pubDate>Mon, 17 Feb 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1699</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083lz37.mp3" length="13592000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083lz37.mp3" length="13592000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083lz37.mp3" length="13592000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083m060</guid>
+      <link>http://www.bbc.co.uk/programmes/p083m060</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083lz37.mp3" fileSize="13592000" type="audio/mpeg" medium="audio" expression="full" duration="1699"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083m060</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: First death confirmed in Europe</title>
+      <description>The victim was an 80-year-old man from China's Hubei province. Chinese officials say the coronavirus outbreak is generally under control but the World Health Organisation insists it's too early to predict whether it will become a global epidemic. Also, Europeans and Americans hold different views on the health of the Western alliance at the annual Munich Security Conference. And, how an overnight trans-European sleeper train could be part of the solution for climate change.</description>
+      <itunes:subtitle>A Chinese tourist has died in France from the new coronavirus</itunes:subtitle>
+      <itunes:summary>The victim was an 80-year-old man from China's Hubei province. Chinese officials say the coronavirus outbreak is generally under control but the World Health Organisation insists it's too early to predict whether it will become a global epidemic. Also, Europeans and Americans hold different views on the health of the Western alliance at the annual Munich Security Conference. And, how an overnight trans-European sleeper train could be part of the solution for climate change.</itunes:summary>
+      <pubDate>Sun, 16 Feb 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1769</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083jjgf.mp3" length="14152000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083jjgf.mp3" length="14152000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083jjgf.mp3" length="14152000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083jk06</guid>
+      <link>http://www.bbc.co.uk/programmes/p083jk06</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083jjgf.mp3" fileSize="14152000" type="audio/mpeg" medium="audio" expression="full" duration="1769"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083jk06</ppg:canonical>
+    </item>
+    <item>
+      <title>1,700 Chinese health care workers infected with Coronavirus</title>
+      <description>China's National Health Commission says there's high pressure on doctors and nurses, also a short truce could be in sight in Afghanistan and some different Valentine's Day events</description>
+      <itunes:subtitle>China's National Health Commission says there's high pressure on doctors and nurses</itunes:subtitle>
+      <itunes:summary>China's National Health Commission says there's high pressure on doctors and nurses, also a short truce could be in sight in Afghanistan and some different Valentine's Day events</itunes:summary>
+      <pubDate>Sat, 15 Feb 2020 00:02:00 +0000</pubDate>
+      <itunes:duration>1629</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083f6rx.mp3" length="13032000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083f6rx.mp3" length="13032000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083f6rx.mp3" length="13032000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083f6x3</guid>
+      <link>http://www.bbc.co.uk/programmes/p083f6x3</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083f6rx.mp3" fileSize="13032000" type="audio/mpeg" medium="audio" expression="full" duration="1629"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083f6x3</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: New China figures reveal toll on medical staff</title>
+      <description>Chinese officials have given figures for health workers infected with the new virus. More than 1700 have fallen ill and at least 6 have died. Also, concern over plight of people fleeing across Mediterranean from Libya to Europe, and how an iconic photo was taken - showing Earth from deep space.</description>
+      <itunes:subtitle>Chinese officials have given figures for health workers infected with the new virus</itunes:subtitle>
+      <itunes:summary>Chinese officials have given figures for health workers infected with the new virus. More than 1700 have fallen ill and at least 6 have died. Also, concern over plight of people fleeing across Mediterranean from Libya to Europe, and how an iconic photo was taken - showing Earth from deep space.</itunes:summary>
+      <pubDate>Fri, 14 Feb 2020 15:53:00 +0000</pubDate>
+      <itunes:duration>1868</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083cpxs.mp3" length="14944000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083cpxs.mp3" length="14944000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083cpxs.mp3" length="14944000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p083crcv</guid>
+      <link>http://www.bbc.co.uk/programmes/p083crcv</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083cpxs.mp3" fileSize="14944000" type="audio/mpeg" medium="audio" expression="full" duration="1868"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p083crcv</ppg:canonical>
+    </item>
+    <item>
+      <title>Thousands of Syrians camp in freezing conditions</title>
+      <description>The UN says 800,000 have been displaced since December in the government offensive in northwestern Syria. Also: The row over whether music festivals book enough female performers, and what one Russian grandmother thinks of President Putin.</description>
+      <itunes:subtitle>UN says 800,000 have been displaced since December in Syrian government offensive</itunes:subtitle>
+      <itunes:summary>The UN says 800,000 have been displaced since December in the government offensive in northwestern Syria. Also: The row over whether music festivals book enough female performers, and what one Russian grandmother thinks of President Putin.</itunes:summary>
+      <pubDate>Fri, 14 Feb 2020 00:05:00 +0000</pubDate>
+      <itunes:duration>1848</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08394wp.mp3" length="14784000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08394wp.mp3" length="14784000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p08394wp.mp3" length="14784000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p08395tq</guid>
+      <link>http://www.bbc.co.uk/programmes/p08395tq</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08394wp.mp3" fileSize="14784000" type="audio/mpeg" medium="audio" expression="full" duration="1848"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p08395tq</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: China reports steep rise in cases in Hubei</title>
+      <description>Beijing confirms huge increase in deaths and infections in worst-hit province.  And top officials have been sacked over their handling of crisis. 
+
+Also, city of Dresden marks 75th anniversary of WW2 bombing-raids which killed tens of thousands of civilians, and could children's drawings be used as evidence in trial of Sudan's former president ?</description>
+      <itunes:subtitle>Beijing confirms huge increase in deaths and infections in worst-hit province</itunes:subtitle>
+      <itunes:summary>Beijing confirms huge increase in deaths and infections in worst-hit province.  And top officials have been sacked over their handling of crisis. 
+
+Also, city of Dresden marks 75th anniversary of WW2 bombing-raids which killed tens of thousands of civilians, and could children's drawings be used as evidence in trial of Sudan's former president ?</itunes:summary>
+      <pubDate>Thu, 13 Feb 2020 15:42:00 +0000</pubDate>
+      <itunes:duration>1776</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0837p8h.mp3" length="14208000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0837p8h.mp3" length="14208000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0837p8h.mp3" length="14208000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0837qc8</guid>
+      <link>http://www.bbc.co.uk/programmes/p0837qc8</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0837p8h.mp3" fileSize="14208000" type="audio/mpeg" medium="audio" expression="full" duration="1776"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0837qc8</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Extreme caution urged by experts</title>
+      <description>Measures include the provision of straightforward diagnostic kits in all countries, implementing robust infection prevention measures, and accelerated research into treatments and possible vaccines. Also: A major shake up in the Italian parliament as right-wing politician Matteo Salvini faces a trial for illegally detaining migrants, and how a Russian man shot himself dead in the middle of a packed courtroom</description>
+      <itunes:subtitle>The World Health Organisation warns the new outbreak must be treated extremely carefully.</itunes:subtitle>
+      <itunes:summary>Measures include the provision of straightforward diagnostic kits in all countries, implementing robust infection prevention measures, and accelerated research into treatments and possible vaccines. Also: A major shake up in the Italian parliament as right-wing politician Matteo Salvini faces a trial for illegally detaining migrants, and how a Russian man shot himself dead in the middle of a packed courtroom</itunes:summary>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1394</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08351gt.mp3" length="11152000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08351gt.mp3" length="11152000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p08351gt.mp3" length="11152000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p08351k7</guid>
+      <link>http://www.bbc.co.uk/programmes/p08351k7</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08351gt.mp3" fileSize="11152000" type="audio/mpeg" medium="audio" expression="full" duration="1394"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p08351k7</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Formula 1 calls off April's Chinese Grand Prix race</title>
+      <description>Motor-racing officials cancel race due to fears over spread of virus.  Meanwhile World Health Organisation holds summit on how to deal with outbreak.
+
+Also, Pope France rules against allowing married men to become Catholic priests in Amazon, and Syrian refugees in Jordan grow crops - using old mattresses instead of soil.</description>
+      <itunes:subtitle>Motor-racing officials cancel race due to fears over spread of virus</itunes:subtitle>
+      <itunes:summary>Motor-racing officials cancel race due to fears over spread of virus.  Meanwhile World Health Organisation holds summit on how to deal with outbreak.
+
+Also, Pope France rules against allowing married men to become Catholic priests in Amazon, and Syrian refugees in Jordan grow crops - using old mattresses instead of soil.</itunes:summary>
+      <pubDate>Wed, 12 Feb 2020 15:42:00 +0000</pubDate>
+      <itunes:duration>1819</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0833l39.mp3" length="14552000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0833l39.mp3" length="14552000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0833l39.mp3" length="14552000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0833m5c</guid>
+      <link>http://www.bbc.co.uk/programmes/p0833m5c</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0833l39.mp3" fileSize="14552000" type="audio/mpeg" medium="audio" expression="full" duration="1819"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0833m5c</ppg:canonical>
+    </item>
+    <item>
+      <title>Sudan agrees ex-president must face ICC</title>
+      <description>Omar al-Bashir will answer genocide and war crimes charges. Also: Spain's high court upholds a company's right to deduct break times from employees' working day, and music fans pay tribute to Joseph Shabalala, the founder of Ladysmith Black Mambazo - who's died at the age of seventy-eight.</description>
+      <itunes:subtitle>Omar al-Bashir will answer genocide and war crimes charges</itunes:subtitle>
+      <itunes:summary>Omar al-Bashir will answer genocide and war crimes charges. Also: Spain's high court upholds a company's right to deduct break times from employees' working day, and music fans pay tribute to Joseph Shabalala, the founder of Ladysmith Black Mambazo - who's died at the age of seventy-eight.</itunes:summary>
+      <pubDate>Wed, 12 Feb 2020 00:09:00 +0000</pubDate>
+      <itunes:duration>1681</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0831bxq.mp3" length="13448000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0831bxq.mp3" length="13448000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0831bxq.mp3" length="13448000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p0831ctz</guid>
+      <link>http://www.bbc.co.uk/programmes/p0831ctz</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0831bxq.mp3" fileSize="13448000" type="audio/mpeg" medium="audio" expression="full" duration="1681"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p0831ctz</ppg:canonical>
+    </item>
+    <item>
+      <title>New coronavirus named Covid-19 by the World Health Organisation</title>
+      <description>The name was chosen so that it 'did not refer to a geographical location, an animal, an individual or group of people'. Thousands pack a stadium for the funeral of Kenya's Daniel arap Moi. More than three decades after the end of apartheid in South Africa, what is it like to be in a Blasian relationship?</description>
+      <itunes:subtitle>Experts in world medicine have been meeting  in Geneva to generate a global response</itunes:subtitle>
+      <itunes:summary>The name was chosen so that it 'did not refer to a geographical location, an animal, an individual or group of people'. Thousands pack a stadium for the funeral of Kenya's Daniel arap Moi. More than three decades after the end of apartheid in South Africa, what is it like to be in a Blasian relationship?</itunes:summary>
+      <pubDate>Tue, 11 Feb 2020 15:39:00 +0000</pubDate>
+      <itunes:duration>1719</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083050c.mp3" length="13752000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083050c.mp3" length="13752000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p083050c.mp3" length="13752000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p08306ct</guid>
+      <link>http://www.bbc.co.uk/programmes/p08306ct</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083050c.mp3" fileSize="13752000" type="audio/mpeg" medium="audio" expression="full" duration="1719"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p08306ct</ppg:canonical>
+    </item>
+    <item>
+      <title>President Trump presents election year budget</title>
+      <description>The President asks for increases in military spending and cuts to social programmes. Also,Turkey says Syrian government shellfire has killed Turkish soldiers in Idlib and the US has charged four Chinese military officers over a cyber attack on a credit rating agency.</description>
+      <itunes:subtitle>The President asks for increases in military spending and cuts to social programmes</itunes:subtitle>
+      <itunes:summary>The President asks for increases in military spending and cuts to social programmes. Also,Turkey says Syrian government shellfire has killed Turkish soldiers in Idlib and the US has charged four Chinese military officers over a cyber attack on a credit rating agency.</itunes:summary>
+      <pubDate>Mon, 10 Feb 2020 23:56:00 +0000</pubDate>
+      <itunes:duration>1777</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082y0cc.mp3" length="14216000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082y0cc.mp3" length="14216000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082y0cc.mp3" length="14216000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082y1lr</guid>
+      <link>http://www.bbc.co.uk/programmes/p082y1lr</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082y0cc.mp3" fileSize="14216000" type="audio/mpeg" medium="audio" expression="full" duration="1777"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082y1lr</ppg:canonical>
+    </item>
+    <item>
+      <title>Germany's 'successor' to Merkel quits</title>
+      <description>The decision comes as questions were raised about her ability to command authority in the party, after CDU delegates in eastern Germany defied the party headquarterâ€™s ban on cooperating with the far right Alternative fÃ¼r Deutschland (AfD). China's president Xi Jinping say his government will work to prevent large-scale job losses due to the coronavirus. Joe Biden's race for the White House gets into trouble - again.</description>
+      <itunes:subtitle>Annegret Kramp-Karrenbauer is standing down as CDU leader</itunes:subtitle>
+      <itunes:summary>The decision comes as questions were raised about her ability to command authority in the party, after CDU delegates in eastern Germany defied the party headquarterâ€™s ban on cooperating with the far right Alternative fÃ¼r Deutschland (AfD). China's president Xi Jinping say his government will work to prevent large-scale job losses due to the coronavirus. Joe Biden's race for the White House gets into trouble - again.</itunes:summary>
+      <pubDate>Mon, 10 Feb 2020 15:33:00 +0000</pubDate>
+      <itunes:duration>1441</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082wr42.mp3" length="11528000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082wr42.mp3" length="11528000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082wr42.mp3" length="11528000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082wsxz</guid>
+      <link>http://www.bbc.co.uk/programmes/p082wsxz</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082wr42.mp3" fileSize="11528000" type="audio/mpeg" medium="audio" expression="full" duration="1441"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082wsxz</ppg:canonical>
+    </item>
+    <item>
+      <title>Millions in China due to return to work despite coronavirus outbreak</title>
+      <description>Many factories and offices in China have been ordered to stagger their working hours to limit the number of people in public places. Also: Sinn Fein to try to form governing coalition after Irish election success, and the renowned opera singer Mirella Freni has died at the age of eighty-four.</description>
+      <itunes:subtitle>Tough restrictions will remain in place in some areas</itunes:subtitle>
+      <itunes:summary>Many factories and offices in China have been ordered to stagger their working hours to limit the number of people in public places. Also: Sinn Fein to try to form governing coalition after Irish election success, and the renowned opera singer Mirella Freni has died at the age of eighty-four.</itunes:summary>
+      <pubDate>Sun, 09 Feb 2020 23:57:00 +0000</pubDate>
+      <itunes:duration>1739</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082ts8t.mp3" length="13912000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082ts8t.mp3" length="13912000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082ts8t.mp3" length="13912000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082tsn8</guid>
+      <link>http://www.bbc.co.uk/programmes/p082tsn8</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082ts8t.mp3" fileSize="13912000" type="audio/mpeg" medium="audio" expression="full" duration="1739"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082tsn8</ppg:canonical>
+    </item>
+    <item>
+      <title>Thai soldier kills many people in shooting rampage</title>
+      <description>Thai security forces rescued hundreds of people from a shopping centre while searching for the gunman. Also: WHO says the number of new coronavirus cases has stabilised in Hubei province, and "lightning strike" kills rare mountain gorillas in Uganda.</description>
+      <itunes:subtitle>Jakraphanth Thomma killed his commanding officer before stealing weapons</itunes:subtitle>
+      <itunes:summary>Thai security forces rescued hundreds of people from a shopping centre while searching for the gunman. Also: WHO says the number of new coronavirus cases has stabilised in Hubei province, and "lightning strike" kills rare mountain gorillas in Uganda.</itunes:summary>
+      <pubDate>Sun, 09 Feb 2020 00:01:00 +0000</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082rl5j.mp3" length="13080000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082rl5j.mp3" length="13080000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082rl5j.mp3" length="13080000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082rlhm</guid>
+      <link>http://www.bbc.co.uk/programmes/p082rlhm</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082rl5j.mp3" fileSize="13080000" type="audio/mpeg" medium="audio" expression="full" duration="1635"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082rlhm</ppg:canonical>
+    </item>
+    <item>
+      <title>Hong Kong imposes new quarantine rules over virus</title>
+      <description>Travellers from mainland China will be isolated for 14 days in new efforts to stem the coronavirus. Also: Impeachment witness escorted from the White House, and unseen Charles Dickens letters open a window into the life of a genius.</description>
+      <itunes:subtitle>Anyone caught flouting the rules faces a prison sentence</itunes:subtitle>
+      <itunes:summary>Travellers from mainland China will be isolated for 14 days in new efforts to stem the coronavirus. Also: Impeachment witness escorted from the White House, and unseen Charles Dickens letters open a window into the life of a genius.</itunes:summary>
+      <pubDate>Fri, 07 Feb 2020 23:52:00 +0000</pubDate>
+      <itunes:duration>1669</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082nvqv.mp3" length="13352000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082nvqv.mp3" length="13352000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082nvqv.mp3" length="13352000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082nxp6</guid>
+      <link>http://www.bbc.co.uk/programmes/p082nxp6</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082nvqv.mp3" fileSize="13352000" type="audio/mpeg" medium="audio" expression="full" duration="1669"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082nxp6</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Death of Wuhan doctor Li Wenliang sparks public anger</title>
+      <description>Widespread grief after death of doctor who tried to warn about the coronavirus outbreak.  Dr. Li died after contracting the virus while treating patients in Wuhan.  Also, Syrian army says it's seized a key target in Idlib province, and we meet a Kenyan singer who uses music to challenge attitudes about sexual consent.</description>
+      <itunes:subtitle>Widespread grief after death of doctor who tried to warn about the coronavirus outbreak</itunes:subtitle>
+      <itunes:summary>Widespread grief after death of doctor who tried to warn about the coronavirus outbreak.  Dr. Li died after contracting the virus while treating patients in Wuhan.  Also, Syrian army says it's seized a key target in Idlib province, and we meet a Kenyan singer who uses music to challenge attitudes about sexual consent.</itunes:summary>
+      <pubDate>Fri, 07 Feb 2020 15:56:00 +0000</pubDate>
+      <itunes:duration>1766</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082m7h1.mp3" length="14128000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082m7h1.mp3" length="14128000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082m7h1.mp3" length="14128000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082m8lq</guid>
+      <link>http://www.bbc.co.uk/programmes/p082m8lq</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082m7h1.mp3" fileSize="14128000" type="audio/mpeg" medium="audio" expression="full" duration="1766"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082m8lq</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus kills Chinese whistleblower doctor</title>
+      <description>The hospital in Wuhan treating Li Wenliang confirms his death after a day of conflicting reports. Also: Trump celebrates acquittal and blasts rivals, and climate change could push bumblebees to extinction.</description>
+      <itunes:subtitle>Li Wenliang contracted the virus at Wuhan Central hospital</itunes:subtitle>
+      <itunes:summary>The hospital in Wuhan treating Li Wenliang confirms his death after a day of conflicting reports. Also: Trump celebrates acquittal and blasts rivals, and climate change could push bumblebees to extinction.</itunes:summary>
+      <pubDate>Thu, 06 Feb 2020 23:54:00 +0000</pubDate>
+      <itunes:duration>1863</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082jsg3.mp3" length="14904000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082jsg3.mp3" length="14904000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082jsg3.mp3" length="14904000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082jt8z</guid>
+      <link>http://www.bbc.co.uk/programmes/p082jt8z</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082jsg3.mp3" fileSize="14904000" type="audio/mpeg" medium="audio" expression="full" duration="1863"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082jt8z</ppg:canonical>
+    </item>
+    <item>
+      <title>Coronavirus: Beijing introduces tough measures to try and stem the outbreak</title>
+      <description>China's government insists it's doing all it can to contain the virus.  More than 560 people have now died and nearly 30,000 been infected. Also, UN Security Council will meet to discuss situation in Syrian rebel-held enclave of Idlib, and we look back at the career of Hollywood legend Kirk Douglas.</description>
+      <itunes:subtitle>China's government insists it's doing all it can to contain the virus</itunes:subtitle>
+      <itunes:summary>China's government insists it's doing all it can to contain the virus.  More than 560 people have now died and nearly 30,000 been infected. Also, UN Security Council will meet to discuss situation in Syrian rebel-held enclave of Idlib, and we look back at the career of Hollywood legend Kirk Douglas.</itunes:summary>
+      <pubDate>Thu, 06 Feb 2020 15:44:00 +0000</pubDate>
+      <itunes:duration>1810</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082hh6j.mp3" length="14480000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082hh6j.mp3" length="14480000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p082hh6j.mp3" length="14480000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p082hj1l</guid>
+      <link>http://www.bbc.co.uk/programmes/p082hj1l</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082hh6j.mp3" fileSize="14480000" type="audio/mpeg" medium="audio" expression="full" duration="1810"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p082hj1l</ppg:canonical>
+    </item>
+    <item>
+      <title>Global News Brexitcast</title>
+      <description>We team up with the award-winning Brexitcast team to bring you a special update on what Britain leaving the EU means for you. Youâ€™ve sent us questions from around the world and Jackie Leonard puts them to the experts from the podcast thatâ€™s all about Brexit. Thereâ€™s also cake, phew.
+Spread the word! #GlobalNewsPod #Brexitcast
+Find the Brexitcast podcast here: http://www.bbc.co.uk/brexitcast</description>
+      <itunes:subtitle>What will Brexit mean for you? We team up with Brexitcast to bring you the answers</itunes:subtitle>
+      <itunes:summary>We team up with the award-winning Brexitcast team to bring you a special update on what Britain leaving the EU means for you. Youâ€™ve sent us questions from around the world and Jackie Leonard puts them to the experts from the podcast thatâ€™s all about Brexit. Thereâ€™s also cake, phew.
+Spread the word! #GlobalNewsPod #Brexitcast
+Find the Brexitcast podcast here: http://www.bbc.co.uk/brexitcast</itunes:summary>
+      <pubDate>Fri, 25 Oct 2019 15:22:00 +0000</pubDate>
+      <itunes:duration>3039</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07s2m05.mp3" length="24312000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07s2m05.mp3" length="24312000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p07s2m05.mp3" length="24312000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:p07s2nd6</guid>
+      <link>http://www.bbc.co.uk/programmes/p07s2nd6</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07s2m05.mp3" fileSize="24312000" type="audio/mpeg" medium="audio" expression="full" duration="3039"/>
+      <itunes:author>BBC World Service</itunes:author>
+      <ppg:canonical>/programmes/p07s2nd6</ppg:canonical>
+    </item>
+  </channel>
+</rss>
