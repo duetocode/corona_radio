@@ -30,14 +30,14 @@ class SubscriptionManager:
         for subscription in subscriptionList:
             self._logger.info('Poll %s', subscription.title)
             try:
-                subscription, rssEntity = self._update(subscription.url)
+                subscription, rssEntity = self._update(subscription.link, subscription.id)
             except Exception as err:
                 self._logger.error('Failed to poll subscrition %d:%s due to error %s', subscription.id, subscription.title, err)
                 continue
             # Send subscription updated message
             pub.sendMessage('subscription.updated', subscription=subscription, rssEntity=rssEntity)
     
-    def _update(self, url):
+    def _update(self, url, id=None):
         # Fetch its information from url
         self._logger.info('Requesting rss from %s', url)
         response = requests.get(url)
@@ -53,6 +53,7 @@ class SubscriptionManager:
         # Save it to storage
         currentDateTime = datetime.utcnow()
         subscription = self._storage.subscriptionStorage.save(SimpleNamespace(
+                    id = id,
                     title = entity.title,
                     link = entity.link,
                     createdAt = currentDateTime,

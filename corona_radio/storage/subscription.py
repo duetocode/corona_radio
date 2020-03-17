@@ -7,7 +7,7 @@ class SubscriptionStorage:
         return [mapToSubscription(record) for record in cursor.fetchall()]
 
     def save(self, cursor, conn, subscription):
-        if hasattr(subscription, 'id'):
+        if hasattr(subscription, 'id') and subscription.id is not None:
             # Update
             cursor.execute('UPDATE subscriptions SET `title`=?, `link`=?, `updated_at`=? WHERE `id`=?', [
                 subscription.title,
