@@ -4,8 +4,8 @@ CREATE TABLE subscription (
     description VARCHAR(1024) NULL,
     link VARCHAR(2048) NULL,
     image VARCHAR(2048) NULL,
-    created_at DATETIME NOT NULL DEFAULT current_timestamp,
-    updated_at DATETIME NOT NULL DEFAULT current_timestamp
+    created_at TIMESTAMP NOT NULL DEFAULT current_timestamp,
+    updated_at TIMESTAMP NOT NULL DEFAULT current_timestamp
 );
 
 CREATE TABLE podcast (

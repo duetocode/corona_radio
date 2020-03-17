@@ -1,14 +1,12 @@
 from types import SimpleNamespace
 
-
 class SubscriptionStorage:
 
-    def findAllSubscriptions(self, cursor, conn):
+    def findAll(self, cursor, conn):
         cursor.execute('SELECT `id`, `title`, `link`, `created_at`, `updated_at` FROM subscription')
         return [mapToSubscription(record) for record in cursor.fetchall()]
 
-    def saveSubscription(self, cursor, conn, subscription):
-        subscription.lastUpdated = datetime.now()
+    def save(self, cursor, conn, subscription):
         if hasattr(subscription, 'id'):
             # Update
             cursor.execute('UPDATE subscriptions SET `title`=?, `link`=?, `updated_at`=? WHERE `id`=?', [

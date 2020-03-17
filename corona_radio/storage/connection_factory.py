@@ -19,3 +19,7 @@ class DatabaseConnectionFactory:
 
     def getConnection(self):
         return self._conn
+
+    def shutdown(self):
+        if self._conn is not None:
+            self._conn.close()
