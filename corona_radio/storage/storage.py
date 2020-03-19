@@ -10,7 +10,7 @@ class StorageService:
         if databaseConnectionFactory is not None:
             self._databaseConnectionFactory = databaseConnectionFactory
         else:
-            self._databaseConnectionFactory = DatabaseConnectionFactory()
+            self._databaseConnectionFactory = DatabaseConnectionFactory('storage.db')
 
         self._subscriptionStorage = DatabaseInjector(SubscriptionStorage(), self._databaseConnectionFactory)
         self._podcastStorage = DatabaseInjector(PodcastStorage(), self._databaseConnectionFactory)

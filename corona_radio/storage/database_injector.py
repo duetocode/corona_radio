@@ -21,8 +21,9 @@ class DatabaseInjector:
             try:
                 conn = self._databaseConnectionFactory.getConnection()
                 cursor = conn.cursor()
-                return targetMethod(cursor, conn, *args, **kwargs)
-
+                result = targetMethod(cursor, conn, *args, **kwargs)
+                conn.commit()
+                return result
             except Exception as e:
                 if conn is not None:
                     conn.rollback()

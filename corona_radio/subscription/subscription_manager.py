@@ -56,21 +56,9 @@ class SubscriptionManager:
                     id = id,
                     title = entity.title,
                     link = entity.link,
+                    latestContent = response.text,
                     createdAt = currentDateTime,
                     updatedAt = currentDateTime))
         self._logger.info('Subscription with title %s was saved to the storage.', subscription.title)
         return subscription, entity
     
-        '''
-            # Process Items
-            for podcast in entity.items:
-                item = self._storage.findPodcast(subscription.id, podcast.id)
-                if item is not None:
-                    # the podcast already exists
-                    continue
-                else:
-                    # Save it to database
-                    newPodcast = self._storage.savePodcast(subscription.id, podcast)
-                    discovery.append(newPodcast)
-        return discovery
-        '''
