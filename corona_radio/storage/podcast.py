@@ -14,6 +14,21 @@ class PodcastStorage:
             podcast.length])
         return podcast
 
+    def saveBatch(self, cursor, conn, subscriptionId, podcasts):
+        inputs = map(lambda podcast:[
+                        podcast.id,
+                        subscriptionId,
+                        podcast.title,
+                        podcast.description,
+                        podcast.publishedAt.timestamp(),
+                        podcast.url,
+                        podcast.length], podcasts)
+        cursor.executemany('''
+            INSERT INTO podcast 
+                (id, subscription_id, title, description, publish_date, url, length) 
+            VALUES 
+                (?,?,?,?,?,?,?)''', inputs)
+
     def findPodcast(self, cursor, conn, subscriptionId, podcastId):
         cursor.execute('SELECT id, title, description, publish_date, url, length FROM podcast WHERE id = ? and subscription_id = ?', [
             podcastId, 
