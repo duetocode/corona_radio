@@ -29,8 +29,8 @@ def test_finalAll(databaseConnection, cursor):
 
     timestamp = datetime.utcnow()
     cursor.execute('''INSERT INTO subscription
-                        (`title`, `link`, `created_at`, `updated_at`)
-                        values (?, ?, ?, ?)''', ['eltit', 'knil', timestamp, timestamp])
+                        (`title`, `link`, `latest_content`, `created_at`, `updated_at`)
+                        values (?, ?, ?, ?, ?)''', ['eltit', 'knil', None, timestamp, timestamp])
     databaseConnection.commit()
 
     actual = storage.findAll(cursor, databaseConnection)
@@ -40,6 +40,7 @@ def test_finalAll(databaseConnection, cursor):
     subscription = actual[0]
     assert subscription.title == 'eltit'
     assert subscription.link == 'knil'
+    assert subscription.latestContent is None
     assert subscription.createdAt == timestamp
     assert subscription.updatedAt == timestamp
 
@@ -50,6 +51,7 @@ def test_insert(databaseConnection, cursor):
     entity = SimpleNamespace(
         title = 'Title',
         link = 'Link',
+        latestContent = 'ABCDEFG',
         createdAt = timestamp,
         updatedAt = timestamp)
 
@@ -58,11 +60,12 @@ def test_insert(databaseConnection, cursor):
     assert hasattr(actual, 'id') and actual.id is not None
     assert actual.title == 'Title'
     assert actual.link == 'Link'
+    assert actual.latestContent == 'ABCDEFG'
     assert actual.createdAt is not None and type(actual.createdAt) is datetime
     assert timestamp == actual.createdAt
     assert actual.updatedAt is not None
 
-    cursor = databaseConnection.execute('select id, title, created_at, updated_at '
+    cursor = databaseConnection.execute('select id, title, latest_content, created_at, updated_at '
                                             'from subscription '
                                             'where id = ? '
                                                 'and title = ? '
@@ -70,6 +73,7 @@ def test_insert(databaseConnection, cursor):
 
     record = cursor.fetchone()
     assert record is not None
-    assert type(record[2]) == datetime and type(record[2]) == datetime
-    assert record[2] == timestamp
-    assert record[2] == record[3]
+    assert record[2] == 'ABCDEFG'
+    assert type(record[3]) == datetime and type(record[3]) == datetime
+    assert record[3] == timestamp
+    assert record[3] == record[4]

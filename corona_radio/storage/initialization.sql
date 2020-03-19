@@ -4,6 +4,7 @@ CREATE TABLE subscription (
     description VARCHAR(1024) NULL,
     link VARCHAR(2048) NULL,
     image VARCHAR(2048) NULL,
+    latest_content TEXT NULL,
     created_at TIMESTAMP NOT NULL DEFAULT current_timestamp,
     updated_at TIMESTAMP NOT NULL DEFAULT current_timestamp
 );
